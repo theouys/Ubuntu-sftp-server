@@ -1,4 +1,4 @@
-#Ubuntu sftp server setup script
+# Ubuntu sftp server setup script
 This script will help you setup a sftp server with a sftp user.
 It will allow you to do sftp connections to the server you are running this script on,
 and it will allow the user called sft to connect to it.
